@@ -1,0 +1,4 @@
+# Birdie - Frontend
+
+- React
+- Typescript
