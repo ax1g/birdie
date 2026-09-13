@@ -1,0 +1,4 @@
+# Birdie - Backend
+
+- FastAPI
+- PostgreSQL
